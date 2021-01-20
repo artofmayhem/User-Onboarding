@@ -12,6 +12,7 @@ We've seen many different styles of form management by now -- simple to complex.
 - [ ] Using `npm`, add the following as dependencies inside your React app:
   - `yup`
   - `axios`
+  
 - [ ] Create a component file called `Form.js`, import it into your `App.js` file, and place the component in your JSX there.
 
 ### Task 2: MVP
